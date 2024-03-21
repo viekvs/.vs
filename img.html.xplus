@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>
+my website
+</title>
+<body>
+<h1> heading1</h1>
+<h2> heading2</h2>
+<h3> heading3</h3>
+<h4> heading4</h4>
+<h5> heading5</h5>
+<h6> heading6</h6>
+<ul>
+         <li>list item 1</li>
+         <li>list item 2</li>
+</ul>
+     <li>numbered item 1</li>
+     <li>numbered item 2</li>
+</o1>
+<p>This is paragraph</p>
+<i>italics</i>
+<br>
+<b>bold</b>
+<br>
+<u>underline/u>
+<br>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/10cbd9185852421.65ca1cecbe87b.jpg">
+<p>To learn more about formula 1,visit its <"https://www.ariesplexslcinemas.com/"
+target="_blank">ktu page</a>,</p>
+</body>
+</html>
+
+ 
